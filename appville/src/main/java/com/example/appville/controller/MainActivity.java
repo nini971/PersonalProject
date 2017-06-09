@@ -21,7 +21,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, EventAdapter.OnEventListner {
 
     //---------------------------
-    //         ATTRIBUTS
+    //         ATTRIBUTS /DEV
     //---------------------------
     private Button btLoad;
     private RecyclerView rvEvent;
