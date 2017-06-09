@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ajout/Edit Music</string>
+    <string name="hello_world">Hello world</string>
+    <string name="like">I like it</string>
+    <string name="dislike">I don\'t like it</string>
+    <string name="cancel">Cancel</string>
+    <string name="valid">Valid</string>
+    <string name="alert_dial">Alert Dial</string>
+    <string name="time_piker">Time Piker</string>
+    <string name="date_piker">Date Piker</string>
+    <string name="recycler">Recycler</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="like">J\'aime</string>
+    <string name="dislike">J\'aime pas</string>
+    <string name="cancel">Annuler</string>
+    <string name="valid">Valider</string>
+</resources>
